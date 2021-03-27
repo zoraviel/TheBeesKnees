@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content=" width=device-width, initial-scale=1">
+  <title> European dark bee</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/main.css">
+  </head>
+  <body>
+  <div id="container">
+    
+
+<h1> European dark bee<h1>
+<img class="right" src="../static/images/nobee.png" alt="No Bee is seen.">
+
+<h2>Scientific Classification</h2>
+
+  <table>
+    <tr>
+      <th>Domain</th>
+      <th>Kingdom</th>
+      <th>Phylum</th>
+      <th>Class</th>
+      <th>Order</th>
+      <th>Family</th>
+      <th>Genus</th>
+      <th>Species</th>
+    </tr>
+    <tr>
+      <td>Animalia</td>
+      <td>Arthropoda</td>
+      <td>Insecta</td>
+      <td>Hymenoptera</td>
+      <td>Apidae</td>
+      <td>Apis</td>
+      <td>A. mellifera</td>
+      <td>A. m.mellifera</td>
+    </tr>
+  </table>
+
+<h2>More Information About the Honey Bee (but not its knees)</h2>
+
+<p>The European dark bee (Apis mellifera mellifera) is a subspecies of the western honey bee, whose original range stretched from west-central Russia through Northern Europe and probably down to the Iberian Peninsula. They belong to the &#39;M&#39;Â¬â€ lineage of Apis mellifera. They are large for honey bees though they have unusually short tongues (5.7-6.4Â¬â€ mm) and traditionally were called the German Dark Bee or the Black German Bee, names still used today even though they are now considered an Endangered Breed in Germany. Their common name is derived from their brown-black color, with only a few lighter yellow spots on the abdomen. However today they are more likely to be called after the geographic / political region in which they live such as the British Black Bee, the Native Irish Honey Bee, the Cornish Black Bee and the Nordic Brown Bee, even though they are all the same subspecies, with the word â€šÃ„Ãºnativeâ€šÃ„Ã¹ often inserted by local beekeepers, even in places where the bee is an introduced foreign species. It was domesticated in Europe and hives were brought to North America in the colonial era in 1622 where they were referred to as the English Fly by the Native American Indians.</p>
+
+<p>A.Â¬â€ m. mellifera can be broadly distinguished from other subspecies by their stocky body, abundant thoracal and sparse abdominal hair which is brown, and overall dark coloration. Overall, when viewed from a distance, they appear blackish, or in mellifera, rich dark brown.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/European_dark_bee"> Lean more about European dark bee.</a></p>
+
+<p><a href="../index.html">Return to the list</a></p>
+
+
+  </div>
+  </body>
+  </html>

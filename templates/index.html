@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1> It's the Bee's Knees!</h1>
+
+<p> Click the name of a bee to find more about its knees(really its species)</p>
+
+<ul>
+  {% for pair in pairs %}
+      <li><a href="{{ url_for( 'detail', num=pair[0] ) }}">{{ pair[1] }}</a></li>
+  {% endfor %}
+  </ul>
+
+{% endblock %}

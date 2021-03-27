@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content=" width=device-width, initial-scale=1">
+  <title> Apis mellifera cecropia</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/main.css">
+  </head>
+  <body>
+  <div id="container">
+    
+
+<h1> Apis mellifera cecropia<h1>
+<img class="right" src="../static/images/nobee.png" alt="No Bee is seen.">
+
+<h2>Scientific Classification</h2>
+
+  <table>
+    <tr>
+      <th>Domain</th>
+      <th>Kingdom</th>
+      <th>Phylum</th>
+      <th>Class</th>
+      <th>Order</th>
+      <th>Family</th>
+      <th>Genus</th>
+      <th>Species</th>
+    </tr>
+    <tr>
+      <td>Animalia</td>
+      <td>Arthropoda</td>
+      <td>Insecta</td>
+      <td>Hymenoptera</td>
+      <td>Apidae</td>
+      <td>Apis</td>
+      <td>A.Â¬â€ mellifera</td>
+      <td>A.Â¬â€ m. cecropia</td>
+    </tr>
+  </table>
+
+<h2>More Information About the Honey Bee (but not its knees)</h2>
+
+<p>Apis mellifera cecropia, the Greek bee, is the subspecies of honey bee that is native to southern Greece. It is very similar to Apis mellifera ligustica, the Italian bee. it is favored for its extreme gentleness and lack of tendency to swarm. The Greek bee originates in Greece where the climate is Mediterranean, and cannot survive in the north of Europe where the climate is cooler[citation needed], and because of that they are not spread around the world much by commercial beekeepers. They are mainly only kept in southern Greece.</p>
+
+<p>Greek bees generally tend to build up very quickly in the spring, with the queens being very prolific, resulting in strong hives. They also tend to make quite a lot of honey, but only in Mediterranean climates.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Apis_mellifera_cecropia"> Lean more about Apis mellifera cecropia.</a></p>
+
+<p><a href="../index.html">Return to the list</a></p>
+
+
+  </div>
+  </body>
+  </html>

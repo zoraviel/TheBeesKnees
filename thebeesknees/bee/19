@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content=" width=device-width, initial-scale=1">
+  <title> Borneo honey bee</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/main.css">
+  </head>
+  <body>
+  <div id="container">
+    
+
+<h1> Borneo honey bee<h1>
+<img class="right" src="../static/images/nobee.png" alt="No Bee is seen.">
+
+<h2>Scientific Classification</h2>
+
+  <table>
+    <tr>
+      <th>Domain</th>
+      <th>Kingdom</th>
+      <th>Phylum</th>
+      <th>Class</th>
+      <th>Order</th>
+      <th>Family</th>
+      <th>Genus</th>
+      <th>Species</th>
+    </tr>
+    <tr>
+      <td>Animalia</td>
+      <td>Arthropoda</td>
+      <td>Insecta</td>
+      <td>Hymenoptera</td>
+      <td>Apidae</td>
+      <td>Apis</td>
+      <td>A.Â¬â€ cerana</td>
+      <td>A.Â¬â€ c. nuluensis</td>
+    </tr>
+  </table>
+
+<h2>More Information About the Honey Bee (but not its knees)</h2>
+
+<p>Apis cerana nuluensis is a subspecies of honey bee described in 1996 by Tingek, Koeniger &amp; Koeniger.  The geographic distribution of the subspecies is the southeastern Asian island of Borneo, politically divided between Indonesia, Malaysia, and Brunei.</p>
+
+<p>A. c. nuluensis is one of a number of Indonesian honey bees, including the more obscure Apis koschevnikovi and Apis nigrocincta (the latter of which has nearby habitat on nearby Sulawesi and Mindanao islands)</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Apis_cerana_nuluensis"> Lean more about Borneo honey bee.</a></p>
+
+<p><a href="../index.html">Return to the list</a></p>
+
+
+  </div>
+  </body>
+  </html>

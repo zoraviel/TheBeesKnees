@@ -1,0 +1,116 @@
+
+body{
+  display: block;
+  margin: 2rem;
+  padding: 2rem;
+  background:  #FFE933;
+}
+
+#container{
+  display: block;
+  margin: 2rem;
+  padding: 1rem;
+  background: black;
+  color: white;
+}
+
+html{
+  display: block;
+  margin: 2rem;
+  padding: 2rem;
+  max-width: 100%;
+}
+
+h1{
+  font-size: 5rem;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+h2{
+  padding: 1rem;
+  font-size: 3rem;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+p{
+  font-size: 2rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+table{
+  border: 2px
+  padding: 1rem;
+  border-collapse: collapse;
+}
+
+th{
+  background:#FFE933;
+  color: black;
+  padding: .5rem;
+  border: 2px solid black;
+  font-family: 'Dela Gothic One', cursive;
+}
+
+td{
+  padding: .5rem;
+  border: 1px solid white;
+  font-family: 'Open Sans', sans-serif;
+  background: black;
+}
+
+ul{
+  color: #FFE933;
+  font-size: 2rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+a{
+  font-size: 1rem;
+  font-family: 'Open Sans', sans-serif;
+  color: #FFE933;
+}
+
+
+@media (max-width: 700px) {
+
+    #container {
+        padding: 1rem;
+        margin:auto;
+        width:100%;
+        max-width: auto;
+
+    }
+    h1 {
+        padding: .5rem;
+        font-size: 2rem;
+    }
+
+    h2 {
+        padding: .5rem;
+        font-size: 1.3rem;
+    }
+
+
+    p{
+      font-size: 1rem;
+    }
+
+    table{
+      overflow-x:auto;
+      width:70%;
+    }
+
+
+    ul{
+      color: #FFE933;
+      font-size: 1.5rem;
+    }
+
+
+}

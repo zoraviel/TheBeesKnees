@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content=" width=device-width, initial-scale=1">
+  <title> East African lowland honey bee</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Open+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/main.css">
+  </head>
+  <body>
+  <div id="container">
+    
+
+<h1> East African lowland honey bee<h1>
+<img class="right" src="../static/images/nobee.png" alt="No Bee is seen.">
+
+<h2>Scientific Classification</h2>
+
+  <table>
+    <tr>
+      <th>Domain</th>
+      <th>Kingdom</th>
+      <th>Phylum</th>
+      <th>Class</th>
+      <th>Order</th>
+      <th>Family</th>
+      <th>Genus</th>
+      <th>Species</th>
+    </tr>
+    <tr>
+      <td>Animalia</td>
+      <td>Arthropoda</td>
+      <td>Insecta</td>
+      <td>Hymenoptera</td>
+      <td>Apidae</td>
+      <td>Apis</td>
+      <td>A.Â¬â€ mellifera</td>
+      <td>A.Â¬â€ m. scutellata</td>
+    </tr>
+  </table>
+
+<h2>More Information About the Honey Bee (but not its knees)</h2>
+
+<p>The East African lowland honey bee (Apis mellifera scutellata) is a subspecies of the western honey bee. It is native to central, southern and eastern Africa, though at the southern extreme it is replaced by the Cape honey bee (Apis mellifera capensis). This subspecies has been determined to constitute one part of the ancestry of the Africanized bees (also known as &#34;killer bees&#34;) spreading through America.</p>
+
+<p>The introduction of the Cape honey bee into northern South Africa poses a threat to East  African lowland honey bees. If a female worker from a Cape honey bee colony enters an East African lowland honey bee nest, she is not attacked, partly due to her resemblance to the East African lowland honey bee queen. As she is capable of parthenogenetic reproduction, she may begin laying eggs which hatch as &#34;clones&#34; of herself, which will also lay eggs, causing the parasitic A. m. capensis workers to increase in number. The death of the host colony results from the dwindling numbers of A. m. scutellata workers that perform foraging duties (A. m. capensis workers are greatly under-represented in the foraging force), the death of the queen, and, before queen death, competition for egg laying between A. m. capensis workers and the queen. When the colony dies, the capensis females will seek out a new host colony.</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Apis_mellifera_scutellata"> Lean more about East African lowland honey bee.</a></p>
+
+<p><a href="../index.html">Return to the list</a></p>
+
+
+  </div>
+  </body>
+  </html>
